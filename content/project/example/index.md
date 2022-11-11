@@ -1,6 +1,5 @@
 ---
-title: Physics-directed data augmentation for deep sensing model transfer in cyber-physical
-systems
+title: Physics-directed data augmentation for deep sensing model transfer in cyber-physical systems
 summary: Domain shift can greatly degrade the performance of deep model. We exploit the first principle governing the domain shift to augment data for retraining the model. In the case studies of speech recognition, with 5-second unlabelled data collected from the target-domain microphones, we can recover the accuracy losses due to microphone characteristic variations by up to 72%.
 tags:
   - Conference papers
