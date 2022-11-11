@@ -14,6 +14,13 @@ subtitle: ''
 
 content:
   # Filter on criteria
+  filter_button:
+    - name: All
+      tag: '*'
+    - name: Conference papers
+      tag: Conference papers
+    - name: Other
+      tag: Demo
   filters:
     folders:
       - publication

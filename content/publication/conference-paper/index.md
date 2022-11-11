@@ -5,7 +5,7 @@ title: 'PhyAug: Physics-directed data augmentation for deep sensing model transf
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - **Wenjie Luo**
+  - Wenjie Luo
   - Zhenyu Yan
   - Qun Song
   - Rui Tan
@@ -36,8 +36,9 @@ abstract: Run-time domain shifts from training-phase domains are common in sensi
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: []
-
+# tags: []
+tags:
+  - Conference papers
 # Display this page in the Featured widget?
 featured: true
 
