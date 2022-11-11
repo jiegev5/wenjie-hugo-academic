@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Luo wenjie 罗文杰
+title: LUO WENJIE
 
 # Full name (for SEO)
-first_name: Wenjie
-last_name: Luo
+first_name: WENJIE
+last_name: LUO
 
 # Is this the primary user of the site?
 superuser: true
