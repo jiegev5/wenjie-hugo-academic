@@ -1,31 +1,30 @@
 ---
 # Display name
-title: Luo Wenjie
+title: Luo wenjie 罗文杰
 
 # Full name (for SEO)
 first_name: Wenjie
-last_name: Luo
+last_name: Bighetti
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Fulltime PhD student
+role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Nanyang Technological University
-    url: https://www.ntu.edu.sg/
+  - name: Stanford University
+    url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests lie in improving the performance/efficiency of artificial intelligence
-powered Internet of things systems.
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence of Thing
-  - Cyber-physical system
-  - Smartphone sensing
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
 
 # Education to show in About widget
 education:
