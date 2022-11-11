@@ -55,10 +55,10 @@ social:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=GYN4aHEAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/jiegev5
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -81,4 +81,4 @@ I am a 4th year full-time PhD student at School of Computer Science and Engineer
 
 I obtained bachelor's degree from School of Electrical and Electronic of Engineering with 2nd upper degree in 2015 at Nanyang Technological University. I worked at [Micron Technology](https://www.micron.com/) for 4 years after graduation. From 2015 to 2018, I worked as a product engineer at MSB, where the scope is developing Functional Development Verification (FDV) test for [Micron 3D NAND products](https://www.micron.com/products/nand-flash). I joined Yield Enhancement team at Fab10N in August of 2018, where I worked as a Electrical Failure Analysis (EFA). The new job scope is to perform wafer-level electrical failure analysis for NAND products.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/luowenjie.pdf" "newtab" >}}resumé{{< /staticref >}}.
