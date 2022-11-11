@@ -14,7 +14,7 @@ main:
     url: '#projects'
     weight: 30
   - name: CV
-    url: '#uploads/luowenjie.pdf'
+    url: 'uploads/luowenjie.pdf'
     weight: 40
   # - name: Talks
   #   url: '#talks'
