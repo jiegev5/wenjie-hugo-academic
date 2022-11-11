@@ -77,8 +77,8 @@ email: ''
 highlight_name: true
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a 4th year full-time PhD student at School of Computer Science and Engineering, [Nanyang Technological University](https://www.ntu.edu.sg/Pages/home.aspx). My supervisor is Prof [Tan Rui](https://www.ntu.edu.sg/home/tanrui/). My research interest is exploiting physical knowledge into AIoT. You can find more about our research at [NTU IoT Sensing Group website](https://ntuiot.xyz/).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I obtained bachelor's degree from School of Electrical and Electronic of Engineering with 2nd upper degree in 2015 at Nanyang Technological University. I worked at [Micron Technology](https://www.micron.com/) for 4 years after graduation. From 2015 to 2018, I worked as a product engineer at MSB, where the scope is developing Functional Development Verification (FDV) test for [Micron 3D NAND products](https://www.micron.com/products/nand-flash). I joined Yield Enhancement team at Fab10N in August of 2018, where I worked as a Electrical Failure Analysis (EFA). The new job scope is to perform wafer-level electrical failure analysis for NAND products.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
