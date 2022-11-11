@@ -1,66 +1,60 @@
 ---
-title: 'PhyAug: Physics-directed data augmentation for deep sensing model transfer in cyber-physical systems'
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
+title: "Demo Abstract: Infrastructure-Free Smartphone Indoor Localization Using Room Acoustic Responses"
 authors:
   - Wenjie Luo
-  - Zhenyu Yan
+  - Dongfang Guo
+  - Chaojie Gu
+  - Yuting Wu
   - Qun Song
+  - Zhenyu yan
   - Rui Tan
-
-# Author notes (optional)
 # author_notes:
-#   - 'Equal contribution'
-#   - 'Equal contribution'
-
-date: '2021-05-20T00:00:00Z'
-doi: ''
+# - "Equal contribution"
+# - "Equal contribution"
+date: "2021-11-15T00:00:00Z"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2021-05-20T00:00:00Z'
+publishDate: "2021-11-15T00:00:00Z"
 
 # Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# Legend: 0 = Demo; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *The 20th ACM/IEEE International Conference on Information Processing in Sensor Networks(IPSN), May 18–21, 2021, Nashville, TN, USA*
-publication_short: In *IPSN'21*
+publication: "In *The 19th ACM Conference on Embedded Networked Sensor Systems (SenSys), November 15-17, 2021, Coimbra, Portugal*"
+publication_short: "Sensys'21"
 
-abstract: Run-time domain shifts from training-phase domains are common in sensing systems designed with deep learning. The shifts can be caused by sensor characteristic variations and/or discrepancies between the design-phase model and the actual model of the sensed physical process. To address these issues, existing transfer learning techniques require substantial target-domain data and thus incur high post-deployment overhead. This paper proposes to exploit the first principle governing the domain shift to reduce the demand on target-domain data. Specifically, our proposed approach called PhyAug uses the first principle fitted with few labeled or unlabeled source/target-domain data pairs to transform the existing source-domain training data into augmented data for updating the deep neural networks. In two case studies of keyword spotting and DeepSpeech2-based automatic speech recognition, with 5-second unlabeled data collected from the target microphones, PhyAug recovers the recognition accuracy losses due to microphone characteristic variations by 37% to 72%. In a case study of seismic source localization with TDoA fngerprints, by exploiting the frst principle of signal propagation in uneven media, PhyAug only requires 3% to 8% of labeled TDoA measurements required by the vanilla fingerprinting approach in achieving the same localization accuracy.
+abstract: Smartphone indoor location awareness is increasingly demanded by a variety of mobile applications. The existing solutions for accurate smartphone indoor localization rely on additional devices or pre-installed infrastructure (e.g., dense WiFi access points, Bluetooth beacons). In this demo, we present EchoLoc, an infrastructure-free smartphone indoor localization system using room acoustic response to a chirp emitted by the phone. EchoLoc consists of a mobile client for echo data collection and a cloud server hosting a deep neural network for location inference. EchoLoc achieves 95% accuracy in recognizing 101 locations in a large public indoor space and a median localization error of 0.5m in a typical lab area. 
+
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-# tags: []
 tags:
-  - Conference papers
-# Display this page in the Featured widget?
-featured: true
+- Demo
+featured: false
 
-# Custom links (uncomment lines below)
 # links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: 'https://arxiv.org/abs/2104.01160'
-url_code: 'https://github.com/jiegev5/PhyAug'
+# - name: ""
+#   url: ""
+url_pdf: 'https://tanrui.github.io/pub/EchoLoc-demo.pdf'
+# url_code: 'https://github.com/jiegev5/PhyAug'
 # url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_poster: ''
 # url_project: ''
 # url_slides: ''
 # url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_video: https://www.youtube.com/watch?v=LcIVBRx4x-o&ab_channel=CPS-IoTWeek-IPSN
+url_video: https://youtu.be/5si0Cq6LzT4}{https://youtu.be/5si0Cq6LzT4
+
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
+# To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'PhyAug Overview'
-  focal_point: ''
+  caption: 'Sytem overview'
+  focal_point: ""
   preview_only: true
 
 # Associated Projects (optional).
@@ -68,8 +62,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - phyaug
+# projects:
+#   - phyaug
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -78,13 +72,13 @@ projects:
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-<!-- 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+
+<!-- {{% callout note %}}
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
 {{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
+Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
