@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Luo Wenjie 罗文杰
+title: Luo Wenjie
 
 # Full name (for SEO)
 first_name: Wenjie
@@ -10,7 +10,7 @@ last_name: Luo
 superuser: true
 
 # Role/position/tagline
-role: Fulltime PhD student (4th year)
+role: Fulltime PhD student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -18,12 +18,12 @@ organizations:
     url: https://www.ntu.edu.sg/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests lie in improving the performance/efficiency of artificial intelligence (AI)
-powered Internet of things (IoT) systems.
+bio: My research interests lie in improving the performance/efficiency of artificial intelligence
+powered Internet of things systems.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence of Thing (AIoT)
+  - Artificial Intelligence of Thing
   - Cyber-physical system
   - Smartphone sensing
 
