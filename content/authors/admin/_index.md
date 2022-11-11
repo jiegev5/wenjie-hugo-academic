@@ -31,10 +31,10 @@ education:
   courses:
     - course: PhD candidate, School of Computer Science and Engineering
       institution: Nayang Technological Universtiy
-      year: 2019
+      year: 2019 - 2023 (expected)
     - course: BSc, Schoole of Electrical and Electronic Engineering
       institution: Nayang Technological Universtiy
-      year: 2009
+      year: 2011 - 2015
     # - course: BSc in Artificial Intelligence
     #   institution: Massachusetts Institute of Technology
     #   year: 2008
