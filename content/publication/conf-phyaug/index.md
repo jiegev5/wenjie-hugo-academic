@@ -61,7 +61,7 @@ url_video: https://www.youtube.com/watch?v=LcIVBRx4x-o&ab_channel=CPS-IoTWeek-IP
 image:
   caption: 'PhyAug Overview'
   focal_point: ''
-  preview_only: false
+  preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
