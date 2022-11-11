@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Luo wenjie # Website name
-baseURL: 'https://jiegev5.github.io/wenjie-hugo-academic ' # Website URL
+baseURL: 'http://www.wenjieluo.xyz/' # Website URL
 
 ############################
 ## LANGUAGE
