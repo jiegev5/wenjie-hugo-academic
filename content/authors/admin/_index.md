@@ -4,13 +4,13 @@ title: Luo wenjie 罗文杰
 
 # Full name (for SEO)
 first_name: Wenjie
-last_name: Bighetti
+last_name: Luo
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
