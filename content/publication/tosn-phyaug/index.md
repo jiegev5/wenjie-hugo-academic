@@ -38,7 +38,7 @@ abstract: Run-time domain shifts from the training phase caused by sensor charac
 
 # tags: []
 tags:
-  - Conference papers
+  - Journal articles
 # Display this page in the Featured widget?
 featured: true
 
