@@ -25,7 +25,7 @@ publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
 publication: "In *The 19th ACM Conference on Embedded Networked Sensor Systems (SenSys), November 15-17, 2021, Coimbra, Portugal*"
-publication_short: "Sensys'21"
+publication_short: "In *Sensys'21*"
 
 abstract: Smartphone indoor location awareness is increasingly demanded by a variety of mobile applications. The existing solutions for accurate smartphone indoor localization rely on additional devices or pre-installed infrastructure (e.g., dense WiFi access points, Bluetooth beacons). In this demo, we present EchoLoc, an infrastructure-free smartphone indoor localization system using room acoustic response to a chirp emitted by the phone. EchoLoc consists of a mobile client for echo data collection and a cloud server hosting a deep neural network for location inference. EchoLoc achieves 95% accuracy in recognizing 101 locations in a large public indoor space and a median localization error of 0.5m in a typical lab area. 
 
@@ -35,7 +35,7 @@ abstract: Smartphone indoor location awareness is increasingly demanded by a var
 
 tags:
 - Demo
-featured: false
+featured: true
 
 # links:
 # - name: ""
@@ -55,7 +55,7 @@ url_video: https://youtu.be/5si0Cq6LzT4}{https://youtu.be/5si0Cq6LzT4
 image:
   caption: 'Sytem overview'
   focal_point: ""
-  preview_only: true
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
