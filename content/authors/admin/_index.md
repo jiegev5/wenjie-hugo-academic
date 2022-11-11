@@ -1,30 +1,31 @@
 ---
 # Display name
-title: Alice Bighetti 吳恩達
+title: Luo Wenjie 罗文杰
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Bighetti
+first_name: Wenjie
+last_name: Luo
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Full-time PhD student (4th year)
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Nanyang Technological University
+    url: https://www.ntu.edu.sg/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests lie in improving the performance/efficiency of artificial intelligence (AI)
+powered Internet of things (IoT) systems.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Artificial Intelligence of Thing (AIoT)
+  - Cyber-physical system
+  - Smartphone sensing
 
 # Education to show in About widget
 education:
