@@ -18,13 +18,13 @@ organizations:
     url: https://www.ntu.edu.sg/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests lie in improving the performance/efficiency of artificial intelligence (AI) powered Internet of things (IoT) systems.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Artificial Intelligence of Things (AIoT)
+  - Cyber-physical System
+  - Smartphone Sensing
 
 # Education to show in About widget
 education:
