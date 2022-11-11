@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Alice Bighetti 吳恩達
+title: LUO WENJIE, 罗文杰
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Bighetti
+first_name: Wenjie
+last_name: Luo
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD student (4th year)
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
+  - name: Nanyang Technological University
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
