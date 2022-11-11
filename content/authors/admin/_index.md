@@ -10,7 +10,7 @@ last_name: Luo
 superuser: true
 
 # Role/position/tagline
-role: Full-time PhD student (4th year)
+role: Fulltime PhD student (4th year)
 
 # Organizations/Affiliations to show in About widget
 organizations:
