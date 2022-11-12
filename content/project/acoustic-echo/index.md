@@ -1,16 +1,16 @@
 ---
-title: 'PhyAug: Physics-directed data augmentation for deep sensing model transfer in cyber-physical systems'
+title: 'Location Sensing using Inaudible Echolocation'
 
-summary: Domain shift can greatly degrade the performance of deep model. We exploit the first principle governing the domain shift to augment data for retraining the model. In the case studies of speech recognition, with 5-second unlabelled data collected from the target-domain microphones, we can recover the accuracy losses due to microphone characteristic variations by up to 72%.
+summary: Smartphone indoor lcoation awareness is increasingly demanded by avariety of mobile applications. The existing solutions for accurate smartphoen indoor  location sensisng rely on additional devices or preinstalled infrastructures. This project presents an infrastructure-free smartphone indoor localization system using room acoustic repsonse to a chirp emitted by the phone. Our system can achieve sub-meter localization accuracy.
 tags:
-  - Cyber-physical systems
+  - Smartphone sensing
 date: '2021-05-20T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: PhyAug overview
+  caption: Echo sensing
   focal_point: Smart
 
 # links:
@@ -18,10 +18,10 @@ image:
 #     icon_pack: fab
 #     name: Follow
 #     url: https://twitter.com/georgecushen
-url_code: 'https://github.com/jiegev5/PhyAug'
-url_pdf: 'https://arxiv.org/abs/2104.01160'
+# url_code: 'https://github.com/jiegev5/PhyAug'
+# url_pdf: 'https://arxiv.org/abs/2104.01160'
 url_slides: ''
-url_video: ''
+url_video: 'https://www.youtube.com/watch?v=5si0Cq6LzT4&ab_channel=WenjieLuo'
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

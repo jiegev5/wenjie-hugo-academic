@@ -27,10 +27,10 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Conference papers
-      tag: Conference papers
-    - name: Other
-      tag: Demo
+    - name: Cyber-physical systems
+      tag: Cyber-physical systems
+    - name: Smartphone sensing
+      tag: Smartphone sensing
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

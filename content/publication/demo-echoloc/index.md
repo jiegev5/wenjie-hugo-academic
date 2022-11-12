@@ -47,7 +47,7 @@ url_pdf: 'https://tanrui.github.io/pub/EchoLoc-demo.pdf'
 # url_project: ''
 # url_slides: ''
 # url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_video: https://youtu.be/5si0Cq6LzT4}{https://youtu.be/5si0Cq6LzT4
+url_video: 'https://youtu.be/5si0Cq6LzT4}{https://youtu.be/5si0Cq6LzT4'
 
 
 # Featured image
@@ -62,8 +62,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-# projects:
-#   - phyaug
+projects:
+  - acoustic-echo
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
