@@ -8,7 +8,7 @@ authors:
   - Dongfang Guo
   - Chaojie Gu
   - Linshan Jiang 
-  - Wenjie Luo
+  - admin
   - Rui Tan
 
 # Author notes (optional)

@@ -7,7 +7,7 @@ title: 'Sardino: Ultra-Fast Dynamic Ensemble for Secure Visual Sensing at Mobile
 authors:
   - Qun Song
   - Zhenyu Yan
-  - Wenjie Luo
+  - admin
   - Rui Tan
 
 # Author notes (optional)

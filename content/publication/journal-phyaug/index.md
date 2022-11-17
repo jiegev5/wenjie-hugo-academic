@@ -5,7 +5,7 @@ title: 'Physics-directed data augmentation for deep model transfer to specific s
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Wenjie Luo
+  - admin
   - Zhenyu Yan
   - Qun Song
   - Rui Tan
