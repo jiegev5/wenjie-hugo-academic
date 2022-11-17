@@ -3,7 +3,7 @@ title: 'Location Sensing using Inaudible Echolocation'
 
 summary: Smartphone indoor lcoation awareness is increasingly demanded by avariety of mobile applications. The existing solutions for accurate smartphoen indoor  location sensisng rely on additional devices or preinstalled infrastructures. This project presents an infrastructure-free smartphone indoor localization system using room acoustic repsonse to a chirp emitted by the phone. Our system can achieve sub-meter localization accuracy.
 tags:
-  - Smartphone sensing
+  - Contrastive learning for acoustic sensing
 date: '2021-05-20T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

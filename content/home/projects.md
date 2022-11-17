@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Projects
+title: Researches
 subtitle: ''
 
 content:
@@ -27,10 +27,10 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Cyber-physical systems
-      tag: Cyber-physical systems
-    - name: Smartphone sensing
-      tag: Smartphone sensing
+    - name: Physics-guided learning
+      tag: Physics-guided learning
+    - name: Contrastive learning for acoustic sensing
+      tag: Contrastive learning for acoustic sensing
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
