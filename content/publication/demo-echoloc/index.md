@@ -1,7 +1,7 @@
 ---
 title: "Demo Abstract: Infrastructure-Free Smartphone Indoor Localization Using Room Acoustic Responses"
 authors:
-  - "*Wenjie Luo*"
+  - <u>Wenjie Luo</u>
   - Dongfang Guo
   - Chaojie Gu
   - Yuting Wu
