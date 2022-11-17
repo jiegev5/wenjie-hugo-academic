@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>LUO WENJIE</title><link>http://www.wenjieluo.xyz/</link><atom:link href="http://www.wenjieluo.xyz/index.xml" rel="self" type="application/rss+xml"/><description>LUO WENJIE</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate><image><url>http://www.wenjieluo.xyz/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>LUO WENJIE</title><link>http://www.wenjieluo.xyz/</link></image><item><title>Experience</title><link>http://www.wenjieluo.xyz/home_backup/experience/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://www.wenjieluo.xyz/home_backup/experience/</guid><description/></item><item><title>Accomplish&amp;shy;ments</title><link>http://www.wenjieluo.xyz/home_backup/accomplishments/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://www.wenjieluo.xyz/home_backup/accomplishments/</guid><description/></item><item><title>Recent Posts</title><link>http://www.wenjieluo.xyz/home_backup/posts/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://www.wenjieluo.xyz/home_backup/posts/</guid><description/></item><item><title>Gallery</title><link>http://www.wenjieluo.xyz/home_backup/gallery/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://www.wenjieluo.xyz/home_backup/gallery/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>WenjieLuo</title><link>http://www.wenjieluo.xyz/</link><atom:link href="http://www.wenjieluo.xyz/index.xml" rel="self" type="application/rss+xml"/><description>WenjieLuo</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate><image><url>http://www.wenjieluo.xyz/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>WenjieLuo</title><link>http://www.wenjieluo.xyz/</link></image><item><title>Experience</title><link>http://www.wenjieluo.xyz/home_backup/experience/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://www.wenjieluo.xyz/home_backup/experience/</guid><description/></item><item><title>Accomplish&amp;shy;ments</title><link>http://www.wenjieluo.xyz/home_backup/accomplishments/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://www.wenjieluo.xyz/home_backup/accomplishments/</guid><description/></item><item><title>Recent Posts</title><link>http://www.wenjieluo.xyz/home_backup/posts/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://www.wenjieluo.xyz/home_backup/posts/</guid><description/></item><item><title>Gallery</title><link>http://www.wenjieluo.xyz/home_backup/gallery/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://www.wenjieluo.xyz/home_backup/gallery/</guid><description>
 &lt;div class="gallery-grid">
 &lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-demo" href="http://www.wenjieluo.xyz/media/albums/demo/chris-montgomery-smgTvepind4-unsplash.jpg" >
@@ -259,7 +259,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-584712936" class="chart">&lt;/div>
+&lt;div id="chart-431926875" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -268,7 +268,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-584712936', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-431926875', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
