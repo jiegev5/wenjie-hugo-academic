@@ -3,8 +3,8 @@
 title: WENJIE LUO
 
 # Full name (for SEO)
-first_name: Wenjie
-last_name: Luo
+first_name: WENJIE
+last_name: LUO
 
 # Is this the primary user of the site?
 superuser: true

@@ -5,7 +5,7 @@ title: 'Indoor Smartphone SLAM with Learned Echoic Location Features'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Wenjie Luo
+  - admin
   - Qun Song
   - Zhenyu Yan
   - Rui Tan
