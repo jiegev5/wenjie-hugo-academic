@@ -1,6 +1,6 @@
 ---
 # Display name
-title: LUO WENJIE
+title: Wenjie Luo
 
 # Full name (for SEO)
 first_name: WENJIE
