@@ -22,9 +22,9 @@ bio: My research interests lie in improving the performance/efficiency of artifi
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence of Things (AIoT)
+  - Artificial Intelligence of Things
   - Cyber-physical System
-  - Smartphone Sensing
+  - Phsyics-guided learning
 
 # Education to show in About widget
 education:
@@ -77,8 +77,10 @@ email: 'wenjie0057@gmail.com'
 highlight_name: true
 ---
 
-I am a 4th year full-time PhD student at School of Computer Science and Engineering, [Nanyang Technological University](https://www.ntu.edu.sg/Pages/home.aspx). My supervisor is Prof [Tan Rui](https://www.ntu.edu.sg/home/tanrui/). My research interest is exploiting physical knowledge into AIoT. You can find more about our research at [NTU IoT Sensing Group website](https://ntuiot.xyz/).
+I am a 4th year full-time PhD student at School of Computer Science and Engineering, [Nanyang Technological University](https://www.ntu.edu.sg/Pages/home.aspx). My supervisor is Prof [Tan Rui](https://www.ntu.edu.sg/home/tanrui/). My research interest is exploiting physical knowledge into AIoT. Specifically, I exploit the first principles, together with state-of-the-art machine learning to address the challenges of data scarcity, labeling or the domain shifts in AIoT applications. You can find more about our researches at [NTU IoT Sensing Group website](https://ntuiot.xyz/).
 
-I obtained bachelor's degree from School of Electrical and Electronic of Engineering with 2nd upper degree in 2015 at Nanyang Technological University. I worked at [Micron Technology](https://www.micron.com/) for 4 years after graduation. From 2015 to 2018, I worked as a product engineer at MSB, where the scope is developing Functional Development Verification (FDV) test for [Micron 3D NAND products](https://www.micron.com/products/nand-flash). I joined Yield Enhancement team at Fab10N in August of 2018, where I worked as a Electrical Failure Analysis (EFA). The new job scope is to perform wafer-level electrical failure analysis for NAND products.
+I obtained the bachelor's degree from School of Electrical and Electronic of Engineering with 2nd upper degree in 2015 at Nanyang Technological University. I spent four years at [Micron Technology, Singapore](https://www.micron.com/) prior starting my PhD degree. I really appreciate about this journey, Micron colleagues are very nice and I've had unforgetful memories there.
+
+<!-- % From 2015 to 2018, I worked as a product engineer at MSB, where the scope is developing Functional Development Verification (FDV) test for [Micron 3D NAND products](https://www.micron.com/products/nand-flash). I joined Yield Enhancement team at Fab10N in August of 2018, where I worked as a Electrical Failure Analysis (EFA). The new job scope is to perform wafer-level electrical failure analysis for NAND products. -->
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/luowenjie.pdf" "newtab" >}}resumé{{< /staticref >}}.
