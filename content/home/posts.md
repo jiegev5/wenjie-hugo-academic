@@ -14,16 +14,16 @@ subtitle:
 
 content:
   # Filter on criteria
-  # filters:
-  #   folders:
-  #     - post
-  #   tag: ''
-  #   category: ''
-  #   publication_type: ''
-  #   author: ''
-  #   exclude_featured: false
-  #   exclude_future: false
-  #   exclude_past: false
+  filters:
+    folders:
+      - post
+    tag: ''
+    category: ''
+    publication_type: ''
+    author: ''
+    exclude_featured: false
+    exclude_future: false
+    exclude_past: false
   filter_button:
     - name: All
       tag: '*'
