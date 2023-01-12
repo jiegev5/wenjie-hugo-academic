@@ -24,15 +24,6 @@ content:
     exclude_featured: false
     exclude_future: false
     exclude_past: false
-  filter_button:
-    - name: All
-      tag: '*'
-    - name: Books
-      tag: book
-    - name: Technical Stuffs
-      tag: tech
-    # - name: Technical Stuffs
-    #   tag: tech
 
   # Choose how many pages you would like to display (0 = all pages)
   count: 5

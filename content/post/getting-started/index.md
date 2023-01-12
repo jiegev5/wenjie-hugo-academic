@@ -34,7 +34,6 @@ authors:
 
 tags:
   - Academic
-  - book
 categories:
   - Demo
   - 教程
