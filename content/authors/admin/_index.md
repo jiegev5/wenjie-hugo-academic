@@ -10,7 +10,7 @@ last_name: LUO
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate
+role: Ph.D Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -29,7 +29,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD candidate, School of Computer Science and Engineering
+    - course: Ph.D candidate, School of Computer Science and Engineering
       institution: Nayang Technological Universtiy
       year: 2019 - 2023 (expected)
     - course: BSc, Schoole of Electrical and Electronic Engineering
@@ -77,7 +77,7 @@ email: 'wenjie0057@gmail.com'
 highlight_name: true
 ---
 
-I am a 4th year full-time PhD student at School of Computer Science and Engineering, [Nanyang Technological University](https://www.ntu.edu.sg/Pages/home.aspx). My supervisor is Prof [Tan Rui](https://www.ntu.edu.sg/home/tanrui/). My research interest is exploiting physical knowledge into AIoT. Specifically, I exploit the first principles, together with state-of-the-art machine learning to address the challenges of data scarcity, labeling or the domain shifts in AIoT applications. You can find more about our researches at [NTU IoT Sensing Group website](https://ntuiot.xyz/).
+I am a 4th year full-time Ph.D student at School of Computer Science and Engineering, [Nanyang Technological University](https://www.ntu.edu.sg/Pages/home.aspx). My supervisor is Prof [Tan Rui](https://www.ntu.edu.sg/home/tanrui/). My research interest is exploiting physical knowledge into AIoT. Specifically, I exploit the first principles, together with state-of-the-art machine learning to address the challenges of data scarcity, labeling or the domain shifts in AIoT applications. You can find more about our researches at [NTU IoT Sensing Group website](https://ntuiot.xyz/).
 
 I obtained the bachelor's degree from School of Electrical and Electronic of Engineering with 2nd upper degree in 2015 at Nanyang Technological University. Thereafter, I spent four years at [Micron Technology, Singapore](https://www.micron.com/) prior starting my PhD degree. I really appreciate about this journey, Micron colleagues are very nice and I've had unforgetful memories there.
 
