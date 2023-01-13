@@ -42,9 +42,12 @@ import libr
 print('hello')
 ``` -->
 
-## The Cost of Social Norms
+## Chapter 4: The Cost of Social Norms
 
-**We are happy to do things, but not when we are paird to do them**
+*We are happy to do things, but not when we are paid to do them*
 
-1. We live in a world where two norms co-exist: social norms and market norms. We are generous and willing to give a hand to others when social norms take effect. However, when market norms enter our consideration, the social norms depart. Example: we are so willingly to help others for **FREE** while resist to reach out if we are **paid** to do these things!
+- We live in a world where two norms co-exist: social norms and market norms. We are generous and willing to give a hand to others when social norms take effect. However, when market norms enter our consideration, the social norms depart. Example: we are so willingly to help others for **FREE** while resist to reach out if we are **PAID** to do these things!
+- When a social norm collides with market norm, social norm goes away for long time. In other words, social relationships are not easy to reestablish. Once the bloom is off the rose, once a social norm istrumped by a market norm, it rarely return
+- Today, companies are trying to create social norms with employees and customers. Social rewards strongly motivate behavior,  and one of the least used in corporate life is the encouragement of social rewards and reputation. How much work
+- If corporations started thinking in terms of social norms, they would realize that these norms build loyalty and, more important, make people want to extend themselves to the degree that corporations need today: to be flexible, concerned, and willing to pitch in. That's what a social relationshop delivers.- Money, as it turns out, is very often the most expensive way to motivate people. Social norms are not only cheaper, but oftern more effective as well. 
 
