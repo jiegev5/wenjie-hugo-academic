@@ -145,7 +145,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-586912743" class="chart">&lt;/div>
+&lt;div id="chart-318659472" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -154,7 +154,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-586912743', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-318659472', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
@@ -413,4 +413,15 @@ print('hello')
 &lt;li>When a social norm collides with market norm, social norm goes away for long time. In other words, social relationships are not easy to reestablish. Once the bloom is off the rose, once a social norm istrumped by a market norm, it rarely return&lt;/li>
 &lt;li>Today, companies are trying to create social norms with employees and customers. Social rewards strongly motivate behavior, and one of the least used in corporate life is the encouragement of social rewards and reputation. How much work&lt;/li>
 &lt;li>If corporations started thinking in terms of social norms, they would realize that these norms build loyalty and, more important, make people want to extend themselves to the degree that corporations need today: to be flexible, concerned, and willing to pitch in. That&amp;rsquo;s what a social relationshop delivers.- Money, as it turns out, is very often the most expensive way to motivate people. Social norms are not only cheaper, but oftern more effective as well.&lt;/li>
+&lt;/ul>
+&lt;h2 id="chapter-6-in-influence-of-arousal">Chapter 6: In influence of arousal&lt;/h2>
+&lt;ul>
+&lt;li>Looking from one emotional state to another is impossible. We cannot predict what will be our reactions in passionate state (e.g., sexual arousal) when we are calm enough. It is essential to learn to bridge this gap in making decisions of our lives.&lt;/li>
+&lt;li>We need to explore two sides of ourselves; we need to see how the gap between the hot and cold states benefits our lives, and where it leads us astray.&lt;/li>
+&lt;/ul>
+&lt;h2 id="chapter-7-the-problem-of-procrastination-and-self-control">Chapter 7: The problem of procrastination and self-control&lt;/h2>
+&lt;ul>
+&lt;li>Giving up on our long-term goals for immediate gratification, my firiends, is procrastination.&lt;/li>
+&lt;li>Resisting temptation and instilling self-control are our general goals. Repeatedly failing to achieve them is a source of much of our misery.&lt;/li>
+&lt;li>A dictatorial treatment on us is a good choice to combat procrastination.&lt;/li>
 &lt;/ul></description></item></channel></rss>
