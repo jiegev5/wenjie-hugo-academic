@@ -46,7 +46,29 @@ Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in sli
 &lt;li>&lt;strong>Upload&lt;/strong> an existing slide deck to &lt;code>static/&lt;/code> and link using &lt;code>url_slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
 &lt;li>&lt;strong>Embed&lt;/strong> your slides (e.g. Google Slides) or presentation video on this page using &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">shortcodes&lt;/a>.&lt;/li>
 &lt;/ul>
-&lt;p>Further event details, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements&lt;/a> such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>Indoor Smartphone SLAM with Learned Echoic Location Features</title><link>http://www.wenjieluo.xyz/publication/conf-elfslam/</link><pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate><guid>http://www.wenjieluo.xyz/publication/conf-elfslam/</guid><description>&lt;!--
+&lt;p>Further event details, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements&lt;/a> such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>PhD Forum Abstract: Integrating Prior Knowledge and Machine Learning Techniques for Efficient AIoT Sensing</title><link>http://www.wenjieluo.xyz/publication/cpsweek-phdforum/</link><pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate><guid>http://www.wenjieluo.xyz/publication/cpsweek-phdforum/</guid><description>&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>Physics-Informed Machine Learning Model Generalization in AIoT: Opportunites and Challenges</title><link>http://www.wenjieluo.xyz/publication/workshop-dicps/</link><pubDate>Wed, 22 Mar 2023 00:00:00 +0000</pubDate><guid>http://www.wenjieluo.xyz/publication/workshop-dicps/</guid><description>&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>Indoor Smartphone SLAM with Learned Echoic Location Features</title><link>http://www.wenjieluo.xyz/publication/conf-elfslam/</link><pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate><guid>http://www.wenjieluo.xyz/publication/conf-elfslam/</guid><description>&lt;!--
 &lt;div class="alert alert-note">
 &lt;div>
 Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -259,7 +281,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-318659472" class="chart">&lt;/div>
+&lt;div id="chart-295417638" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -268,7 +290,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-318659472', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-295417638', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
@@ -639,7 +661,7 @@ print('hello')
 &lt;li>Today, companies are trying to create social norms with employees and customers. Social rewards strongly motivate behavior, and one of the least used in corporate life is the encouragement of social rewards and reputation. How much work&lt;/li>
 &lt;li>If corporations started thinking in terms of social norms, they would realize that these norms build loyalty and, more important, make people want to extend themselves to the degree that corporations need today: to be flexible, concerned, and willing to pitch in. That&amp;rsquo;s what a social relationshop delivers.- Money, as it turns out, is very often the most expensive way to motivate people. Social norms are not only cheaper, but oftern more effective as well.&lt;/li>
 &lt;/ul>
-&lt;h2 id="chapter-6-in-influence-of-arousal">Chapter 6: In influence of arousal&lt;/h2>
+&lt;h2 id="chapter-6-influence-of-arousal">Chapter 6: Influence of arousal&lt;/h2>
 &lt;ul>
 &lt;li>Looking from one emotional state to another is impossible. We cannot predict what will be our reactions in passionate state (e.g., sexual arousal) when we are calm enough. It is essential to learn to bridge this gap in making decisions of our lives.&lt;/li>
 &lt;li>We need to explore two sides of ourselves; we need to see how the gap between the hot and cold states benefits our lives, and where it leads us astray.&lt;/li>
@@ -649,4 +671,5 @@ print('hello')
 &lt;li>Giving up on our long-term goals for immediate gratification, my firiends, is procrastination.&lt;/li>
 &lt;li>Resisting temptation and instilling self-control are our general goals. Repeatedly failing to achieve them is a source of much of our misery.&lt;/li>
 &lt;li>A dictatorial treatment on us is a good choice to combat procrastination.&lt;/li>
+&lt;li>Simplification is one mark of real genius.&lt;/li>
 &lt;/ul></description></item></channel></rss>
