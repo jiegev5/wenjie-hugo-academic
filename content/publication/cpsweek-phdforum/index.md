@@ -46,7 +46,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-# url_pdf: 'https://tanrui.github.io/pub/PIML-AIoT.pdf'
+url_pdf: './main.pdf'
 # url_code: 'https://github.com/jiegev5/PhyAug'
 # url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_poster: ''

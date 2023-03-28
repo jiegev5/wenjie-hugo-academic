@@ -27,7 +27,7 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Physics-guided learning
+    - name: Physics-informed machine learning
       tag: Physics-guided learning
     - name: Contrastive learning for acoustic sensing
       tag: Contrastive learning for acoustic sensing
