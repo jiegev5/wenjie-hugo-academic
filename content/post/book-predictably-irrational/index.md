@@ -51,7 +51,7 @@ print('hello')
 - Today, companies are trying to create social norms with employees and customers. Social rewards strongly motivate behavior,  and one of the least used in corporate life is the encouragement of social rewards and reputation. How much work
 - If corporations started thinking in terms of social norms, they would realize that these norms build loyalty and, more important, make people want to extend themselves to the degree that corporations need today: to be flexible, concerned, and willing to pitch in. That's what a social relationshop delivers.- Money, as it turns out, is very often the most expensive way to motivate people. Social norms are not only cheaper, but oftern more effective as well. 
 
-## Chapter 6: In influence of arousal
+## Chapter 6: Influence of arousal
 
 - Looking from one emotional state to another is impossible. We cannot predict what will be our reactions in passionate state (e.g., sexual arousal) when we are calm enough. It is essential to learn to bridge this gap in making decisions of our lives.
 - We need to explore two sides of ourselves; we need to see how the gap between the hot and cold states benefits our lives, and where it leads us astray.
@@ -60,3 +60,4 @@ print('hello')
 - Giving up on our long-term goals for immediate gratification, my firiends, is procrastination.
 - Resisting temptation and instilling self-control are our general goals. Repeatedly failing to achieve them is a source of much of our misery.
 - A dictatorial treatment on us is a good choice to combat procrastination.
+- Simplification is one mark of real genius.
