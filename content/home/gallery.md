@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 66
 
-title: CPSWeek
+title: "CPS-IoT Week 2023"
 subtitle:
 
 design:
