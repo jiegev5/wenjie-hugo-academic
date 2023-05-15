@@ -16,5 +16,5 @@ design:
   columns: '1'
 ---
 
-{{< gallery album="CPSIoTweek-2023" >}}
-{{< gallery album="CPSIoTweek-2023" >}}
+{{< gallery album="cpsweek" >}}
+{{< gallery album="cpsweek" >}}
