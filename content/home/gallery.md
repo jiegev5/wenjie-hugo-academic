@@ -16,4 +16,4 @@ design:
   columns: '1'
 ---
 
-{{< gallery album="cpsweek" >}}
+{{< gallery album="cpsweek" resize_options="250x250" >}}
