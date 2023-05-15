@@ -16,4 +16,13 @@ design:
   columns: '1'
 ---
 
-{{< gallery album="cpsweek" resize_options="250x250" >}}
+{{< gallery album="cpsweek">}}
+
+gallery_item:
+- album: <ALBUM FOLDER>
+  image: <IMAGE 1 NAME>.jpg
+  caption: Write your image 1 caption here
+- album: <ALBUM FOLDER>
+  image: <IMAGE 2 NAME>.jpg
+  caption: Write your image 2 caption here
+
