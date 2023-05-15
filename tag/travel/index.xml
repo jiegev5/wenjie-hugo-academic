@@ -74,18 +74,47 @@
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img src="./IMG_7899.jpg" alt="jpg" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
+&lt;br>
+&lt;img src="./IMG_7891.jpg" width="300"/> &amp;lt;img src=&amp;quot;./IMG_7891.jpg&amp;quot; width=&amp;ldquo;300&amp;rdquo;&amp;gt; &lt;br>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./IMG_7902.jpg" alt="jpg" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;br>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./IMG_7910.jpg" alt="jpg" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;br>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./IMG_7912.jpg" alt="jpg" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;br>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./IMG_7914.jpg" alt="jpg" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;br>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./IMG_7919.jpg" alt="jpg" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;br>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./IMG_7920.jpg" alt="jpg" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;br>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./IMG_7924.jpg" alt="jpg" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
 &lt;/p>
-&lt;p float="left">
-&lt;img src="http://www.wenjieluo.xyz/IMG_7891.jpg" width="100" />
-&lt;img src="http://www.wenjieluo.xyz/IMG_7891.jpg" width="100" />
-&lt;img src="http://www.wenjieluo.xyz/IMG_7891.jpg" width="100" />
-&lt;/p>
-![jpg](./IMG_7902.jpg)
-![jpg](./IMG_7910.jpg)
-![jpg](./IMG_7912.jpg)
-![jpg](./IMG_7914.jpg)
-![jpg](./IMG_7919.jpg)
-![jpg](./IMG_7920.jpg)
-![jpg](./IMG_7924.jpg)
-## Goodbye SAN ANTONIO!
-![jpg](./IMG_7936.jpg)</description></item></channel></rss>
+&lt;h2 id="goodbye-san-antonio">Goodbye SAN ANTONIO!&lt;/h2>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./IMG_7936.jpg" alt="jpg" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item></channel></rss>
