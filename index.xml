@@ -1,38 +1,113 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>WENJIE LUO</title><link>http://www.wenjieluo.xyz/</link><atom:link href="http://www.wenjieluo.xyz/index.xml" rel="self" type="application/rss+xml"/><description>WENJIE LUO</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate><image><url>http://www.wenjieluo.xyz/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>WENJIE LUO</title><link>http://www.wenjieluo.xyz/</link></image><item><title>Experience</title><link>http://www.wenjieluo.xyz/home_backup/experience/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://www.wenjieluo.xyz/home_backup/experience/</guid><description/></item><item><title>Accomplish&amp;shy;ments</title><link>http://www.wenjieluo.xyz/home_backup/accomplishments/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://www.wenjieluo.xyz/home_backup/accomplishments/</guid><description/></item><item><title>Recent Posts</title><link>http://www.wenjieluo.xyz/home_backup/posts/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://www.wenjieluo.xyz/home_backup/posts/</guid><description/></item><item><title>Gallery</title><link>http://www.wenjieluo.xyz/home_backup/gallery/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://www.wenjieluo.xyz/home_backup/gallery/</guid><description>
 &lt;div class="gallery-grid">
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-demo" href="http://www.wenjieluo.xyz/media/albums/demo/chris-montgomery-smgTvepind4-unsplash.jpg" >
-&lt;img src="http://www.wenjieluo.xyz/media/albums/demo/chris-montgomery-smgTvepind4-unsplash_hu68f1f4ae312ace90ad56e06a7b965ca9_245831_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="chris-montgomery-smgTvepind4-unsplash.jpg" width="750" height="563">
-&lt;/a>
-&lt;/div>
-&lt;div class="gallery-item gallery-item--full">
-&lt;a data-fancybox="gallery-demo" href="http://www.wenjieluo.xyz/media/albums/demo/dan-gold-4_jhDO54BYg-unsplash-f.jpg" >
-&lt;img src="http://www.wenjieluo.xyz/media/albums/demo/dan-gold-4_jhDO54BYg-unsplash-f_hubb57eb7d78eb9d6871b4f982a9cfe98b_447788_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="dan-gold-4_jhDO54BYg-unsplash-f.jpg" width="750" height="500">
+&lt;a data-fancybox="gallery-cpsweek" href="http://www.wenjieluo.xyz/media/albums/cpsweek/IMG_7768.jpg" >
+&lt;img src="http://www.wenjieluo.xyz/media/albums/cpsweek/IMG_7768_hu11cc543fb0aa207d99eec75430915bab_2472552_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="IMG_7768.jpg" width="750" height="563">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-demo" href="http://www.wenjieluo.xyz/media/albums/demo/fotografierende-333oj7zFsdg-unsplash.jpg" >
-&lt;img src="http://www.wenjieluo.xyz/media/albums/demo/fotografierende-333oj7zFsdg-unsplash_hu596cc7cd654d6dbe93ef5a0a61cb3766_116195_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="fotografierende-333oj7zFsdg-unsplash.jpg" width="750" height="500">
+&lt;a data-fancybox="gallery-cpsweek" href="http://www.wenjieluo.xyz/media/albums/cpsweek/IMG_7785.jpg" >
+&lt;img src="http://www.wenjieluo.xyz/media/albums/cpsweek/IMG_7785_hua08960ad8a508889b71f31348dafc41e_2512507_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="IMG_7785.jpg" width="563" height="750">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-demo" href="http://www.wenjieluo.xyz/media/albums/demo/glenn-carstens-peters-npxXWgQ33ZQ-unsplash.jpg" >
-&lt;img src="http://www.wenjieluo.xyz/media/albums/demo/glenn-carstens-peters-npxXWgQ33ZQ-unsplash_hufe7234d721dea2d4376339533ed0a7b7_115372_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="glenn-carstens-peters-npxXWgQ33ZQ-unsplash.jpg" width="750" height="499">
+&lt;a data-fancybox="gallery-cpsweek" href="http://www.wenjieluo.xyz/media/albums/cpsweek/IMG_7830.jpg" >
+&lt;img src="http://www.wenjieluo.xyz/media/albums/cpsweek/IMG_7830_hu58bf595f7b2cdf84d4a2f87854929072_3511050_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="IMG_7830.jpg" width="563" height="750">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-demo" href="http://www.wenjieluo.xyz/media/albums/demo/joseph-gonzalez-zcUgjyqEwe8-unsplash.jpg" >
-&lt;img src="http://www.wenjieluo.xyz/media/albums/demo/joseph-gonzalez-zcUgjyqEwe8-unsplash_hu0da53bf391414dd35b860edb2d47ae67_331376_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="joseph-gonzalez-zcUgjyqEwe8-unsplash.jpg" width="580" height="750">
-&lt;/a>
-&lt;/div>
-&lt;div class="gallery-item gallery-item--large">
-&lt;a data-fancybox="gallery-demo" href="http://www.wenjieluo.xyz/media/albums/demo/matthew-osborn-wMRIcT86SWU-unsplash-l.jpg" >
-&lt;img src="http://www.wenjieluo.xyz/media/albums/demo/matthew-osborn-wMRIcT86SWU-unsplash-l_hu5617109cd94ff53d835059e892c0ab5d_398024_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="matthew-osborn-wMRIcT86SWU-unsplash-l.jpg" width="750" height="500">
+&lt;a data-fancybox="gallery-cpsweek" href="http://www.wenjieluo.xyz/media/albums/cpsweek/IMG_7831.jpg" >
+&lt;img src="http://www.wenjieluo.xyz/media/albums/cpsweek/IMG_7831_hu6b4a0f278a268001318a9360e8f61748_2433469_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="IMG_7831.jpg" width="750" height="563">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-demo" href="http://www.wenjieluo.xyz/media/albums/demo/priscilla-du-preez-K8XYGbw4Ahg-unsplash.jpg" >
-&lt;img src="http://www.wenjieluo.xyz/media/albums/demo/priscilla-du-preez-K8XYGbw4Ahg-unsplash_huef8cdcc68a376950d1b1bcb089263869_96811_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="priscilla-du-preez-K8XYGbw4Ahg-unsplash.jpg" width="750" height="500">
+&lt;a data-fancybox="gallery-cpsweek" href="http://www.wenjieluo.xyz/media/albums/cpsweek/IMG_7833.jpg" >
+&lt;img src="http://www.wenjieluo.xyz/media/albums/cpsweek/IMG_7833_hu53552bd751af7718077672643bf4f9e9_2877524_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="IMG_7833.jpg" width="750" height="563">
+&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-cpsweek" href="http://www.wenjieluo.xyz/media/albums/cpsweek/IMG_7852.jpg" >
+&lt;img src="http://www.wenjieluo.xyz/media/albums/cpsweek/IMG_7852_hu3b6effa6bf7913e4ca66bef5beb70072_5247890_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="IMG_7852.jpg" width="750" height="563">
+&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-cpsweek" href="http://www.wenjieluo.xyz/media/albums/cpsweek/IMG_7854.jpg" >
+&lt;img src="http://www.wenjieluo.xyz/media/albums/cpsweek/IMG_7854_hu7edd0018adda35370d62a4c89b96b977_2964005_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="IMG_7854.jpg" width="750" height="563">
+&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-cpsweek" href="http://www.wenjieluo.xyz/media/albums/cpsweek/IMG_7856.jpg" >
+&lt;img src="http://www.wenjieluo.xyz/media/albums/cpsweek/IMG_7856_hu90a8ac6334ea0084e441566a34c328e0_2975639_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="IMG_7856.jpg" width="750" height="563">
+&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-cpsweek" href="http://www.wenjieluo.xyz/media/albums/cpsweek/IMG_7857.jpg" >
+&lt;img src="http://www.wenjieluo.xyz/media/albums/cpsweek/IMG_7857_hu15c13b63a5853f7149e4116368745340_3038349_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="IMG_7857.jpg" width="750" height="563">
+&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-cpsweek" href="http://www.wenjieluo.xyz/media/albums/cpsweek/IMG_7859.jpg" >
+&lt;img src="http://www.wenjieluo.xyz/media/albums/cpsweek/IMG_7859_huf9867e4e8fda373204b4881ed8842376_3249642_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="IMG_7859.jpg" width="750" height="563">
+&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-cpsweek" href="http://www.wenjieluo.xyz/media/albums/cpsweek/IMG_7873.jpg" >
+&lt;img src="http://www.wenjieluo.xyz/media/albums/cpsweek/IMG_7873_hu1e75ddd100fc18151c29c214a9a0d832_2340516_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="IMG_7873.jpg" width="563" height="750">
+&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-cpsweek" href="http://www.wenjieluo.xyz/media/albums/cpsweek/IMG_7891.jpg" >
+&lt;img src="http://www.wenjieluo.xyz/media/albums/cpsweek/IMG_7891_hu6a00a54cfc5ee678dc4bfb089325b026_2829723_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="IMG_7891.jpg" width="750" height="563">
+&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-cpsweek" href="http://www.wenjieluo.xyz/media/albums/cpsweek/IMG_7898.jpg" >
+&lt;img src="http://www.wenjieluo.xyz/media/albums/cpsweek/IMG_7898_hu76beb5967291e39ec348bf6cabdb7251_4478030_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="IMG_7898.jpg" width="563" height="750">
+&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-cpsweek" href="http://www.wenjieluo.xyz/media/albums/cpsweek/IMG_7899.jpg" >
+&lt;img src="http://www.wenjieluo.xyz/media/albums/cpsweek/IMG_7899_hu88c032532af4538c90c439f4f9ab0b9a_3005491_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="IMG_7899.jpg" width="750" height="563">
+&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-cpsweek" href="http://www.wenjieluo.xyz/media/albums/cpsweek/IMG_7902.jpg" >
+&lt;img src="http://www.wenjieluo.xyz/media/albums/cpsweek/IMG_7902_huf474efbbaf1ddfa6d91cafc8b79b040e_3007420_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="IMG_7902.jpg" width="563" height="750">
+&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-cpsweek" href="http://www.wenjieluo.xyz/media/albums/cpsweek/IMG_7910.jpg" >
+&lt;img src="http://www.wenjieluo.xyz/media/albums/cpsweek/IMG_7910_hu3805c225567d9d50ba2b46aac456261c_2568943_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="IMG_7910.jpg" width="563" height="750">
+&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-cpsweek" href="http://www.wenjieluo.xyz/media/albums/cpsweek/IMG_7912.jpg" >
+&lt;img src="http://www.wenjieluo.xyz/media/albums/cpsweek/IMG_7912_hu9a63c00f5894119d6a4cf0a67ed1ad81_5228859_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="IMG_7912.jpg" width="750" height="563">
+&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-cpsweek" href="http://www.wenjieluo.xyz/media/albums/cpsweek/IMG_7914.jpg" >
+&lt;img src="http://www.wenjieluo.xyz/media/albums/cpsweek/IMG_7914_hu4f364f3b5b8782810cef083b01b706e1_2903117_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="IMG_7914.jpg" width="563" height="750">
+&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-cpsweek" href="http://www.wenjieluo.xyz/media/albums/cpsweek/IMG_7919.jpg" >
+&lt;img src="http://www.wenjieluo.xyz/media/albums/cpsweek/IMG_7919_hu2ff4b9dc3491df7fe3e4fede4e560c53_3309081_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="IMG_7919.jpg" width="750" height="563">
+&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-cpsweek" href="http://www.wenjieluo.xyz/media/albums/cpsweek/IMG_7920.jpg" >
+&lt;img src="http://www.wenjieluo.xyz/media/albums/cpsweek/IMG_7920_hu078ef1eef6dceb5c5295b577bb15a874_3421515_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="IMG_7920.jpg" width="563" height="750">
+&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-cpsweek" href="http://www.wenjieluo.xyz/media/albums/cpsweek/IMG_7924.jpg" >
+&lt;img src="http://www.wenjieluo.xyz/media/albums/cpsweek/IMG_7924_hudaa883176c62cd55f3bda385ffac35ef_2908324_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="IMG_7924.jpg" width="750" height="563">
+&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-cpsweek" href="http://www.wenjieluo.xyz/media/albums/cpsweek/IMG_7936.jpg" >
+&lt;img src="http://www.wenjieluo.xyz/media/albums/cpsweek/IMG_7936_hubff559e9bf4205c521141ba7c021bfe0_2130168_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="IMG_7936.jpg" width="750" height="563">
 &lt;/a>
 &lt;/div>
 &lt;/div></description></item><item><title>Recent &amp; Upcoming Talks</title><link>http://www.wenjieluo.xyz/talk/recent-upcoming-talks/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://www.wenjieluo.xyz/talk/recent-upcoming-talks/</guid><description/></item><item><title>Featured Publications</title><link>http://www.wenjieluo.xyz/home_backup/featured/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://www.wenjieluo.xyz/home_backup/featured/</guid><description/></item><item><title>Skills</title><link>http://www.wenjieluo.xyz/home_backup/skills/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://www.wenjieluo.xyz/home_backup/skills/</guid><description/></item><item><title>Popular Topics</title><link>http://www.wenjieluo.xyz/home_backup/tags/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://www.wenjieluo.xyz/home_backup/tags/</guid><description/></item><item><title>Contact</title><link>http://www.wenjieluo.xyz/home_backup/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://www.wenjieluo.xyz/home_backup/contact/</guid><description/></item><item><title>Example Talk</title><link>http://www.wenjieluo.xyz/talk/example-talk/</link><pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate><guid>http://www.wenjieluo.xyz/talk/example-talk/</guid><description>&lt;div class="alert alert-note">
@@ -281,7 +356,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-536419287" class="chart">&lt;/div>
+&lt;div id="chart-672981354" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -290,7 +365,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-536419287', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-672981354', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
