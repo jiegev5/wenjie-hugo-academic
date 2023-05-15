@@ -34,11 +34,7 @@ image:
 ![jpg](./IMG_7891.jpg)                                                          
 ![jpg](./IMG_7898.jpg)                                                          
 ![jpg](./IMG_7899.jpg)  
-<p float="left">
-  <img src="/IMG_7891.jpg" width="100" />
-  <img src="/IMG_7891.jpg" width="100" /> 
-  <img src="/IMG_7891.jpg" width="100" />
-</p>                                                        
+<img src="./IMG_7891.jpg" width="300"/> <img src="./IMG_7891.jpg" width="300"\>                                                       
 ![jpg](./IMG_7902.jpg)                                                          
 ![jpg](./IMG_7910.jpg)                                                          
 ![jpg](./IMG_7912.jpg)                                                          
