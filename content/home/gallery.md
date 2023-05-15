@@ -9,11 +9,12 @@ headless: true
 # Order that this section appears on the page.
 weight: 66
 
-title: Gallery
+title: CPS-IoT Week 2023
 subtitle:
 
 design:
   columns: '1'
 ---
 
-{{< gallery album="demo" >}}
+{{< gallery album="CPSIoTweek-2023" >}}
+{{< gallery album="CPSIoTweek-2023" >}}
