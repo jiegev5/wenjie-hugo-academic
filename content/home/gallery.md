@@ -17,4 +17,3 @@ design:
 ---
 
 {{< gallery album="cpsweek" >}}
-{{< gallery album="cpsweek" >}}
