@@ -15,27 +15,38 @@ image:
   focal_point: ''
 ---
 
-
-![jpg](./IMG_7768.jpg)                                                          
-![jpg](./IMG_7785.jpg)                                                          
-![jpg](./IMG_7830.jpg)                                                          
-![jpg](./IMG_7833.jpg)                                                          
+## Flight from SG to SAN ANTONIO, 20 hours!
+![jpg](./IMG_7768.jpg)  
+## Celebrate Jack's retirement                                                  
+![jpg](./IMG_7785.jpg)  
+## We walk from DoubleTree to UTSA everyday                                                          
+![jpg](./IMG_7830.jpg)   
+## Order beers at Yard House (We were asked to show ID)                                                      
+![jpg](./IMG_7833.jpg)  
+## Banquet at PEDROTTI's RANCH                                                          
 ![jpg](./IMG_7852.jpg)                                                          
 ![jpg](./IMG_7854.jpg)                                                          
 ![jpg](./IMG_7856.jpg)                                                          
 ![jpg](./IMG_7857.jpg)                                                          
 ![jpg](./IMG_7859.jpg)                                                          
-![jpg](./IMG_7873.jpg)                                                          
+![jpg](./IMG_7873.jpg)   
+## River walk at downtown                                                         
 ![jpg](./IMG_7891.jpg)                                                          
 ![jpg](./IMG_7898.jpg)                                                          
-![jpg](./IMG_7899.jpg)                                                          
+![jpg](./IMG_7899.jpg)  
+<p float="left">
+  <img src="/IMG_7891.jpg" width="100" />
+  <img src="/IMG_7891.jpg" width="100" /> 
+  <img src="/IMG_7891.jpg" width="100" />
+</p>                                                        
 ![jpg](./IMG_7902.jpg)                                                          
 ![jpg](./IMG_7910.jpg)                                                          
 ![jpg](./IMG_7912.jpg)                                                          
 ![jpg](./IMG_7914.jpg)                                                          
 ![jpg](./IMG_7919.jpg)                                                          
 ![jpg](./IMG_7920.jpg)                                                          
-![jpg](./IMG_7924.jpg)                                                          
+![jpg](./IMG_7924.jpg)    
+## Goodbye SAN ANTONIO!                                                       
 ![jpg](./IMG_7936.jpg)
 
 
