@@ -16,13 +16,13 @@ design:
   columns: '1'
 ---
 
-{{< gallery album="cpsweek">}}
+{{< gallery album="family">}}
 
-gallery_item:
+<!-- gallery_item:
 - album: <ALBUM FOLDER>
   image: <IMAGE 1 NAME>.jpg
   caption: Write your image 1 caption here
 - album: <ALBUM FOLDER>
   image: <IMAGE 2 NAME>.jpg
-  caption: Write your image 2 caption here
+  caption: Write your image 2 caption here -->
 

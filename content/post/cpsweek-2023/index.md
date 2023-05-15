@@ -33,8 +33,7 @@ image:
 ## River walk at downtown                                                         
 ![jpg](./IMG_7891.jpg)                                                          
 ![jpg](./IMG_7898.jpg)                                                          
-![jpg](./IMG_7899.jpg)  
-<img src="./IMG_7891.jpg" width="200"/> <img src="./IMG_7891.jpg" width="200"/> <img src="./IMG_7891.jpg" width="200"/>                                                     
+![jpg](./IMG_7899.jpg)                                                     
 ![jpg](./IMG_7902.jpg)                                                          
 ![jpg](./IMG_7910.jpg)                                                          
 ![jpg](./IMG_7912.jpg)                                                          
