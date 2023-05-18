@@ -16,7 +16,7 @@ design:
   columns: '1'
 ---
 
-{{< gallery album="family">}}
+<!-- {{< gallery album="family">}} -->
 
 <!-- gallery_item:
 - album: <ALBUM FOLDER>
