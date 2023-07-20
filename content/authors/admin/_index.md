@@ -86,4 +86,4 @@ I obtained the bachelor's degree from School of Electrical and Electronic of Eng
 
 <!-- % From 2015 to 2018, I worked as a product engineer at MSB, where the scope is developing Functional Development Verification (FDV) test for [Micron 3D NAND products](https://www.micron.com/products/nand-flash). I joined Yield Enhancement team at Fab10N in August of 2018, where I worked as a Electrical Failure Analysis (EFA). The new job scope is to perform wafer-level electrical failure analysis for NAND products. -->
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/luowenjie.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/luowenjie.pdf" "newtab" >}}resumé{{< /staticref >}}, {{< staticref "uploads/ch.pdf" "newtab" >}}中文版{{< /staticref >}}.
