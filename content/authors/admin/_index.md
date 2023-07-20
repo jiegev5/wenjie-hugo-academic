@@ -82,7 +82,7 @@ I obtained my Ph.D degree at School of Computer Science and Engineering, [Nanyan
 
 I obtained the bachelor's degree from School of Electrical and Electronic of Engineering with 2nd upper degree in 2015 at Nanyang Technological University. Thereafter, I spent four years at [Micron Technology, Singapore](https://www.micron.com/) prior starting my PhD degree. I really appreciate about this journey, Micron colleagues are very nice and I've had unforgetful memories there.
 
-<font color='red'>I am actively looking for job opportunities in both academic and industry sectors.</font>
+<font color='red'>I am actively looking for job opportunities in both academic and industrial markets.</font>
 
 <!-- % From 2015 to 2018, I worked as a product engineer at MSB, where the scope is developing Functional Development Verification (FDV) test for [Micron 3D NAND products](https://www.micron.com/products/nand-flash). I joined Yield Enhancement team at Fab10N in August of 2018, where I worked as a Electrical Failure Analysis (EFA). The new job scope is to perform wafer-level electrical failure analysis for NAND products. -->
 
