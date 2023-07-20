@@ -10,7 +10,7 @@ last_name: LUO
 superuser: true
 
 # Role/position/tagline
-role: Ph.D Candidate
+role: Ph.D
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -23,18 +23,19 @@ bio: My research interests lie in improving the performance/efficiency of artifi
 # Interests to show in About widget
 interests:
   - Artificial Intelligence of Things
+  - Smart Sensing
   - Cyber-physical System
   - Phsyics-guided Learning
 
 # Education to show in About widget
 education:
   courses:
-    - course: Ph.D candidate, School of Computer Science and Engineering
+    - course: Ph.D, School of Computer Science and Engineering
       institution: Nayang Technological Universtiy
-      year: 2019 - 2023 (expected)
+      year: 2019.7 - 2023.7
     - course: BSc, Schoole of Electrical and Electronic Engineering
       institution: Nayang Technological Universtiy
-      year: 2011 - 2015
+      year: 2011.8 - 2015.6
     # - course: BSc in Artificial Intelligence
     #   institution: Massachusetts Institute of Technology
     #   year: 2008
@@ -77,9 +78,11 @@ email: 'wenjie0057@gmail.com'
 highlight_name: true
 ---
 
-I am a 4th year full-time Ph.D student at School of Computer Science and Engineering, [Nanyang Technological University](https://www.ntu.edu.sg/Pages/home.aspx). My supervisor is Prof [Tan Rui](https://www.ntu.edu.sg/home/tanrui/). My research interest is exploiting physical knowledge into AIoT. Specifically, I exploit the first principles, together with state-of-the-art machine learning to address the challenges of data scarcity, labeling or the domain shifts in AIoT applications. You can find more about our researches at [NTU IoT Sensing Group website](https://ntuiot.xyz/).
+I obtained my Ph.D degree at School of Computer Science and Engineering, [Nanyang Technological University](https://www.ntu.edu.sg/Pages/home.aspx), in July 2023. My research interests include AIoT sensing, smart sensing, and Cybe-physical system. Specifically, I integrate the first principles that guided data generation into machine learning algorithms to address the challenges of data scarcity, labeling or the domain shifts in AIoT applications. My supervisor is Prof [Tan Rui](https://www.ntu.edu.sg/home/tanrui/). You can find more about our researches at [NTU IoT Sensing Group website](https://ntuiot.xyz/).
 
 I obtained the bachelor's degree from School of Electrical and Electronic of Engineering with 2nd upper degree in 2015 at Nanyang Technological University. Thereafter, I spent four years at [Micron Technology, Singapore](https://www.micron.com/) prior starting my PhD degree. I really appreciate about this journey, Micron colleagues are very nice and I've had unforgetful memories there.
+
+**I am actively looking for job opportunities in both academic and industry sectors**
 
 <!-- % From 2015 to 2018, I worked as a product engineer at MSB, where the scope is developing Functional Development Verification (FDV) test for [Micron 3D NAND products](https://www.micron.com/products/nand-flash). I joined Yield Enhancement team at Fab10N in August of 2018, where I worked as a Electrical Failure Analysis (EFA). The new job scope is to perform wafer-level electrical failure analysis for NAND products. -->
 
